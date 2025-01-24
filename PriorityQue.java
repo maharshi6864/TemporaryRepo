@@ -14,7 +14,5 @@ public class PriorityQue {
     System.out.println(pq);
     System.out.println(pq.peek());
     System.out.println(pq);
-    System.out.println(pq.poll());
-    System.out.println(pq);
   }
 }
